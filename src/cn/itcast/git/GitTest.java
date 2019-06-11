@@ -18,4 +18,7 @@ public class GitTest {
         System.out.println("累死了！！！！！！！");
         System.out.println("累死了！！！！！！！");
     }
+    public void test2(){
+        System.out.println("zaishiyixiaz");
+    }
 }
